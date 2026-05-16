@@ -21,7 +21,7 @@ const bookPages = [
     chapterNumber: 'Prefacio',
     quote: '"Lately I\'ve been, I\'ve been losing sleep<br>Dreaming about the things that we could be"',
     paragraphs: [
-      'Counting Stars sonaba de fondo cuando todo era más sencillo. Antes de meter la pila de veces que las metí. Te escuchaba al otro lado del teléfono y lo único que quería era tenerte cerca.',
+      'Counting Stars sonaba de fondo cuando todo era más sencillo. Antes de meterla pila de veces que las metí. Te escuchaba al otro lado del teléfono y lo único que quería era tenerte cerca.',
       'Ahora la escucho y no es nostalgia. Son ganas. Porque cuando suena <em>"everything that kills me makes me feel alive"</em> pienso en todo lo que me rompió y me volvió a construir. Y pienso en ti.'
     ],
     signoff: 'Soy Sombra. La misma que quiso ser tu complemento. Pero una sombra que creció, que aprendió, que se cayó y se levantó sola. Que ya no huye. Que aprendió a quedarse.'
@@ -51,7 +51,7 @@ const bookPages = [
     cards: [
       { icon: 'moon', quote: '"Yo soy Luna"', text: 'Lo dijiste sin dudar. Cada vez que levanto la cabeza y veo la luna, pienso en ti.' },
       { icon: 'user', quote: '"Y yo Sombra"', text: 'Lo dije sin saber que te estaba prometiendo acompañarte siempre. Una sombra no existe sin su luz.' },
-      { icon: 'fire', quote: '"Lame hierros"', text: 'Me hiciste reír como pocas saben hacerlo. Cada vez que oigo algo parecido, sonrío. Porque me acuerdo de ti.' },
+      { icon: 'fire', quote: '"Lame hierros"', text: 'Me hiciste reír como nadie sabe hacerlo. Cada vez que oigo algo parecido, sonrío. Porque me acuerdo de ti.' },
       { icon: 'seedling', quote: '"Satisfire ecológico"', text: 'Único, absurdo, precioso. Todo salió de una conversación sobre pepinos. Y eso es lo que siempre voy a cuidar.' }
     ],
     conclusion: 'No me hacen falta fotos. Lo tengo todo grabado.'
@@ -65,9 +65,9 @@ const bookPages = [
     title: 'Nuestra Historia en una Línea',
     intro: 'Toca cada momento para leerlo completo.',
     events: [
-      { icon: '🏃', label: 'Parkour', text: 'En medio de saltos que no pegaban a nadie, te pregunté si querías ser mi mejor amiga. Lo disfracé de casualidad, pero el corazón me latía tan fuerte que casi se escuchaba. Dijiste que sí. Desde Logroño hasta Murcia, lo escuché como si estuvieras al lado.' },
+      { icon: '🏃', label: 'Parkour', text: 'En medio de saltos que no pegaban a nadie, te pregunté si querías ser mi mejor amiga. Lo disfracé de casualidad, pero el corazón me latía tan fuerte que casi se escuchaba. Dijiste que sí.' },
       { icon: '⚔️', label: 'Bedwars', text: 'Todo salió mal pero todo salió bien. Dos bloques formaron una silueta imposible de no ver. Nos reímos como hacía tiempo no reíamos. Con esa risa que solo sale cuando puedes ser tú mismo sin pensar.' },
-      { icon: '📞', label: '4am Calls', text: 'Tu risa a 600 kilómetros. Las llamadas sin querer colgar. El "bueno, me voy" que nunca era la última palabra. Daba igual Murcia o Logroño. Con tal de escucharte, el resto sobraba.' },
+      { icon: '📞', label: '10am Calls', text: 'Tu risa a 600 kilómetros. Las llamadas sin querer colgar. El "bueno, me voy" que nunca era la última palabra. Daba igual Murcia o Logroño. Con tal de escucharte, el resto sobraba.' },
       { icon: '🎵', label: 'Counting Stars', text: 'Apenas suenan los primeros acordes y ya me transporto. Cada nota me lleva a tu voz. Hay canciones que son la banda sonora de una historia. La nuestra tiene la suya.' }
     ]
   },
@@ -80,7 +80,7 @@ const bookPages = [
     title: 'El Tiempo Que Estuvimos Lejos',
     content: [
       { type: 'text', p: 'Hubo días que no quería pensar en ti porque dolía. Y aun así, siempre te deseaba lo mejor.' },
-      { type: 'text', p: 'Sé que después de nosotros estuviste con alguien más. Y no pienso en eso con celos. Lo entiendo. A veces necesitas perderte por otros sitios para darte cuenta de cuál es el de verdad.' },
+      { type: 'text', p: 'Sé que después de nosotros estuviste con alguien más. Y no pienso en eso con celos. Lo entiendo. Yo tambien tuve que perderme con otra persona. A veces necesitas perderte por otros sitios para darte cuenta de cuál es el de verdad. Yo al menos ahora, despues de todo, tengo claro que quiero que seas tu mi camino' },
       { type: 'lesson', text: 'Tus pasos te trajeron de vuelta a hablarme. Y los míos, a ti. Pero mejores. Más enteros. Más seguros.' }
     ]
   },
@@ -95,7 +95,7 @@ const bookPages = [
       { type: 'text', p: 'Ya no soy el que se fue. Ese tío se quedó en el pasado.' },
       { type: 'cualidades', items: [
         { icon: 'hand', title: 'Pide perdón de verdad', desc: 'Sin esperar nada a cambio.' },
-        { icon: 'heart', title: 'El orgullo ya no manda', desc: 'Hablar, aunque sea por teléfono, es valentía.' },
+        { icon: 'heart', title: 'El orgullo ya no manda', desc: 'Hablar, aunque sea por mensaje si no es posible llamada, es valentía.' },
         { icon: 'shield-alt', title: 'Ya no sale huyendo', desc: 'Antes me alejaba. Hoy me acerco.' },
         { icon: 'compass', title: 'Eres mi brújula', desc: 'Antes de hacer algo, pienso: ¿esto suma o resta?' }
       ]},
